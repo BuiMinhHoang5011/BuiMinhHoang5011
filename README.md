@@ -1,4 +1,5 @@
 ### Hi there, 👋 I'm [Bui Tran Minh Hoang](https://github.com/BuiMinhHoang5011)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 - 🔭 I'm currenly studying at FPT University
 - 👀 I'm currently working on a VS Code Studio
 - 💞️ I'm member of FPTU event club and participated in running some other club events: Fcam 2019, 2020, Water Rocket 2020, FPTU First Step 2020, 2021, Khoảnh Khắc Ngày Xuân 2018.
